@@ -9,7 +9,7 @@ env:
   LOCATION: westus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: d5bfedaf-afe3-421b-8fba-5ddd8d3bd98d
-  WEBAPP-NAME: eshoponweb-harimurali87
+  WEBAPP-NAME: eshoponweb-hari87murali
 
 
 jobs:
